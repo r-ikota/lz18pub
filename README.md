@@ -2,6 +2,7 @@
 
 ## About
   This repository contains files for the paper 
+  [A Role of Rotation in Linearized Equations of Nonlinear Dynamics ](https://doi.org/10.6084/m9.figshare.6890957.v1).
 
 ## How to build
 
